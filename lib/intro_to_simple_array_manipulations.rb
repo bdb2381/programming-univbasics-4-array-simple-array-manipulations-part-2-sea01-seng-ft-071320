@@ -20,3 +20,7 @@ end
 def using_delete(array, string)
   updated_array = array.delete(string)
 end
+
+def using_delete_at(array, integer)
+  
+end
