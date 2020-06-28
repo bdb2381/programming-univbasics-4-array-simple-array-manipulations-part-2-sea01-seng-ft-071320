@@ -9,5 +9,5 @@ end
 
 
 def using_uniq(array)
-  new_array = array.unique()
+  new_array = array.uniq()
 end
