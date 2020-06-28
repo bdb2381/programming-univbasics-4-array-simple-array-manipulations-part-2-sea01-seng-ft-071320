@@ -16,3 +16,7 @@ end
 def using_flatten(array)
   flat_array = array.flatten()
 end
+
+def using_delete(array, string)
+  updated_array = using_delete.delete(array, string)
+end
